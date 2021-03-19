@@ -1,7 +1,8 @@
 package code.codility.app;
 
 public class UserService {
- @SuppressWarnings("unused")
+
+@SuppressWarnings("unused")
 private String str ="ssds";
-	// calls servicesrtert	
+
 }
