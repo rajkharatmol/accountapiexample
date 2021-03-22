@@ -14,7 +14,7 @@ public class UserService {
 	
 	public List<String> getUsers() {
 		List<String> users = new ArrayList<String>();
-		
+		System.out.println(" Get Users method");
 		return users;
 	}
 }
