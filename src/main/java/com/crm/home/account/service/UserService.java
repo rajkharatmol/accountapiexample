@@ -1,4 +1,4 @@
-package code.codility.app;
+package com.crm.home.account.service;
 
 import java.util.ArrayList;
 import java.util.List;
